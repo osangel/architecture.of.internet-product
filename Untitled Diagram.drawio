@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T06:21:41.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.10.3" etag="MguXFC-guE1rp6HSQNig" type="github"><diagram id="wUsL_dTXQiGsOLcKcqPJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:15:19.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="s-YuMxmQ_IgW5WEhSuF1" version="13.10.3" type="github">
+  <diagram id="wUsL_dTXQiGsOLcKcqPJ" name="Page-1">
+    <mxGraphModel dx="1279" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-1" value="需求提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-2" value="诉求为：运营活动多重复，能否统一布置，快速上线，统一管理&lt;br&gt;因此提出2021年开发营销活动平台的计划" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="95" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-3" value="根据需求延伸思考，修正需求并确立愿景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-5" value="跳出固有思维，以一个完整项目去思考问题，&lt;br&gt;对该平台的要求是一个成熟的商业产品，&lt;br&gt;最终初步确立愿景：打造一个高效支持运营活动的平台" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="215" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-7" value="深入研究行业痛点，初步确认基本功能并画出脑图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-9" value="三年开发周期，&lt;br&gt;第一年目标：打造一个傻瓜化配置与发布的运营活动cms系统&lt;br&gt;第二年目标：对接部门内已有的会员系统，数据分析系统等，打造产品矩阵&lt;br&gt;第三年目标：对接第三方接口规范化，运营活动上线时间可预测，实现商业化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="470" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-10" value="&lt;span&gt;根据愿景，确定开发周期与周期目标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-13" value="与leader以及其他产品及相关人员开会来修正产品功能与获得支持" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-15" value="愿景修改为：联动数据，监控预警，&lt;span style=&quot;text-align: left&quot;&gt;打造一个高效支持运营活动的平台&lt;br&gt;与此同时支持第一年目标的功能脑图也越发完善与清晰，并最终确认&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="615" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-16" value="进入软件开发流程" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-18" value="思考问题角度：&lt;br&gt;格局：系统定位，核心价值，背景，在组织架构中的位置，其他人的看法，挑战，&lt;br&gt;历史观：该技术所处历史地位，&lt;br&gt;抽象能力，业务架构，技术架构，基础架构&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="750" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-19" target="kfNIE78K4JvINt_dp1Bu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-19" value="架构选型" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-21" value="技术预热" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kfNIE78K4JvINt_dp1Bu-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-23" value="制定配合与交付流程规范" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-25" value="前后端开发规范" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-27" value="子系统拆分与确认" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-28" value="模块拆分与确认" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-29" value="数据库表设计" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-30" value="前后端交互规范化" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-31" value="目录结构设计" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-32" value="权衡利弊，确定基础架构与技术架构：&lt;br&gt;基础架构：Aws云，Linux Centos7，分布式存储，消息中间件，缓存，监控系统&lt;br&gt;技术架构：Docker+GitlabCI+K8s" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="895" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-33" value="对应架构的诞生背景，能提供什么解决方案，实现难易程度，demo开发" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1040" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-34" value="产品=》ui=》开发=》测试=》上线，各个环节如何交付，如何验证交付成功，问题回溯，追责问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1189" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfNIE78K4JvINt_dp1Bu-36" value="当前时间节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1020" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
